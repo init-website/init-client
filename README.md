@@ -35,9 +35,9 @@
 
 ![대체 텍스트(alternative text)를 입력하세요!](https://www.gstatic.com/webp/gallery/1.jpg "링크 설명(title)을 작성하세요.")
 
-![Kayak][logo]
+![대체 텍스트(alternative text)를 입력하세요!](사진이 없을 경우 "링크 설명(title)을 작성하세요.")
 
-[logo]: https://www.gstatic.com/webp/gallery/1.jpg "To go kayaking."
+![logo]: https://www.gstatic.com/webp/gallery/1.jpg "링크 설명(title)을 작성하세요."
 
 
-[![Vue](img/black/i.png)](https://www.init.com)
+![init](img/black/i.png)](https://www.init.com)
