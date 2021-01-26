@@ -31,11 +31,13 @@
 구글 홈페이지: https://google.com
 네이버 홈페이지: <https://naver.com>
 
-![대체 텍스트(alternative text)를 입력하세요!](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title)을 작성하세요.")
+
+
+![대체 텍스트(alternative text)를 입력하세요!](https://www.gstatic.com/webp/gallery/1.jpg "링크 설명(title)을 작성하세요.")
 
 ![Kayak][logo]
 
-[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+[logo]: https://www.gstatic.com/webp/gallery/1.jpg "To go kayaking."
 
 
 [![Vue](/images/vue.png)](https://kr.vuejs.org/)
