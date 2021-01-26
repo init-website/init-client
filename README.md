@@ -7,7 +7,7 @@
 
 ~~취소선~~
 
-<u>밀줄</u>
+<u>밑줄</u>
 
 1. 순서가 필요한 목록
   - 순서가 필요하지 않은 목록(서브) 
@@ -30,3 +30,12 @@
 다음과 같이 문서 내 일반 URL이나 꺾쇠 괄호(`< >`, Angle Brackets)안의 URL은 자동으로 링크를 사용합니다.
 구글 홈페이지: https://google.com
 네이버 홈페이지: <https://naver.com>
+
+![대체 텍스트(alternative text)를 입력하세요!](http://www.gstatic.com/webp/gallery/5.jpg "링크 설명(title)을 작성하세요.")
+
+![Kayak][logo]
+
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+
+
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
