@@ -41,6 +41,10 @@ a:hover {
   color: #333;
   background-color: #00b6ee;
 }
+.inner > button {
+  height: auto;
+  margin: 0 10px;
+}
 
 
 /*
@@ -152,28 +156,28 @@ body {
 }
 
 .img-rt {
-  position: absolute;
-  z-index: 10;
+  position: fixed;
+  z-index: -1;
   right: 0;
  
 }
 
 .img-rb {
-  position: absolute;
-  z-index: 10;
+  position: fixed;
+  z-index: -1;
   right: 0; 
   bottom: 0;
 }
 
 .img-lt {
-  position: absolute;
-  z-index: 10;
+  position: fixed;
+  z-index: -1;
   left: 0;
 }
 
 .img-lb {
-  position: absolute;
-  z-index: 10;
+  position: fixed;
+  z-index: -1;
   left: 0;
   bottom: 0;
 }
