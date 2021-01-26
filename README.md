@@ -14,6 +14,6 @@ ___
 대한 사람 대한으로 길이 보전하세
 
 
-GitHub supports emoji! 
-:+1: :sparkles: :camel: :tada: 
+GitHub supports emoji!    
+:+1: :sparkles: :camel: :tada:    
 :rocket: :metal: :octocat:
