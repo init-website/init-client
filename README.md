@@ -1,5 +1,14 @@
-<u>마크다운에서 지원하지 않는 기능</u>을 사용할 때 유용하며 대부분 잘 동작합니다.
+---
+(Hyphens)
 
-<img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">
+***
+(Asterisks)
 
-![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
+___
+(Underscores)
+
+
+동해물과 백두산이 마르고 닳도록 
+하느님이 보우하사 우리나라 만세   <!--띄어쓰기 2번-->
+무궁화 삼천리 화려 강산<br>
+대한 사람 대한으로 길이 보전하세
