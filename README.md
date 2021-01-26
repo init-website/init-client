@@ -33,9 +33,13 @@
 
 
 
+[대체 텍스트](https://www.gstatic.com/webp/gallery/1.jpg)
 
+![대체 텍스트(alternative text)를 입력하세요!](https://www.gstatic.com/webp/gallery/1.jpg "링크 설명1")
 
-![logo]: https://www.gstatic.com/webp/gallery/1.jpg "링크 설명3"
+![Kayak][logo]
+
+[logo]: https://www.gstatic.com/webp/gallery/1.jpg "링크 설명2"
 
 
 [![init](img/black/i.png)](https://www.init.com)
